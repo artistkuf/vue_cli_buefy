@@ -1,5 +1,14 @@
 <template>
-  <div class="about">
-    <h1>This is Homepage</h1>
-  </div>
+  <MainCarousel />
 </template>
+
+<script>
+import MainCarousel from "@/components/MainCarousel.vue";
+export default {
+  components: {
+    MainCarousel
+  }
+};
+</script>
+
+<style></style>
