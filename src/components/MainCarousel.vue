@@ -18,31 +18,31 @@ export default {
         {
           text: "Slide 1",
           color: "primary",
-          image: "https://picsum.photos/id/0/1230/500",
+          image: "https://picsum.photos/id/0/1230/500"
         },
         {
           text: "Slide 2",
           color: "info",
-          image: "https://picsum.photos/id/0/1230/500",
+          image: "https://picsum.photos/id/0/1230/500"
         },
         {
           text: "Slide 3",
           color: "success",
-          image: "https://picsum.photos/id/0/1230/500",
+          image: "https://picsum.photos/id/0/1230/500"
         },
         {
           text: "Slide 4",
           color: "success",
-          image: "https://picsum.photos/id/0/1230/500",
+          image: "https://picsum.photos/id/0/1230/500"
         },
         {
           text: "Slide 5",
           color: "danger",
-          image: "https://picsum.photos/id/0/1230/500",
-        },
-      ],
+          image: "https://picsum.photos/id/0/1230/500"
+        }
+      ]
     };
-  },
+  }
 };
 </script>
 
@@ -55,5 +55,7 @@ export default {
     top: 30%;
   }
 }
-.carousel-arrow .icon{color:red!important}
+.carousel-arrow .icon {
+  color: greenyellow !important;
+}
 </style>
