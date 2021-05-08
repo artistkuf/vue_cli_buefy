@@ -12,8 +12,8 @@ import MainFooter from "@/components/MainFooter.vue";
 export default {
   components: {
     MainHeader,
-    MainFooter
-  }
+    MainFooter,
+  },
 };
 </script>
 
